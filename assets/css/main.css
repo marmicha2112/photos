@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 
-/*
-	Lens by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -135,8 +131,8 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: rgb(16, 93, 236);
-		color: rgb(9, 79, 209);
+		background-color: #0693e3;
+		color: rgb(89, 132, 212);
 	}
 
 	body, input, select, textarea {
@@ -144,7 +140,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.65;
 		font-size: 1em;
-		color: #aaa;
+		color: rgb(248, 250, 243);
 	}
 
 	a {
@@ -159,7 +155,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #f0e10c;
 		}
 
 	strong, b {
@@ -905,7 +901,7 @@ input, select, textarea {
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #fff;
+				background: rgba(10, 97, 228, 0.925);
 				text-align: center;
 			}
 
